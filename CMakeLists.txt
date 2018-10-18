@@ -15,7 +15,7 @@ option(GLM_QUIET "No CMake Message" OFF)
 option(GLM_TEST_ENABLE_CXX_98 "Enable C++ 98" OFF)
 option(GLM_TEST_ENABLE_CXX_11 "Enable C++ 11" OFF)
 option(GLM_TEST_ENABLE_CXX_14 "Enable C++ 14" OFF)
-option(GLM_TEST_ENABLE_CXX_17 "Enable C++ 17" OFF)
+option(GLM_TEST_ENABLE_CXX_17 "Enable C++ 17" ON)
 option(GLM_TEST_ENABLE_CXX_20 "Enable C++ 20" OFF)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
